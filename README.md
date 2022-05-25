@@ -2,7 +2,7 @@
 - 👀 As of now i’m interested in web/app development
 - 🌱 I’m currently learning JavaScript, Node.js, React & Mango DB
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? <a>href=https://instagram.com</a>
+- 📫 How to reach me? <ahref=https://instagram.com>Insta Here</a>
 
 <!---
 coolboyalan/coolboyalan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
